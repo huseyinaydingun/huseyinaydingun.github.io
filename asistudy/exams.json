@@ -1,0 +1,605 @@
+{
+ "v": 1,
+ "updated": "2026-11-12",
+ "source": "ÖSYM 2027 takvimi (28.10.2026), MEB 2027 sınav takvimi; soru sayıları son yılların kılavuzları",
+ "exams": [
+  {
+   "id": "yks",
+   "name": "YKS",
+   "full": "Yükseköğretim Kurumları Sınavı",
+   "cat": "uni",
+   "days": [
+    "2027-06-19"
+   ],
+   "wpr": 4,
+   "ai": "yks",
+   "tests": [
+    {
+     "id": "tyt",
+     "name": "TYT",
+     "subjects": [
+      [
+       "tr",
+       "Türkçe",
+       40
+      ],
+      [
+       "sos",
+       "Sosyal Bilimler",
+       20
+      ],
+      [
+       "mat",
+       "Temel Matematik",
+       40
+      ],
+      [
+       "fen",
+       "Fen Bilimleri",
+       20
+      ]
+     ]
+    },
+    {
+     "id": "ayt",
+     "name": "AYT",
+     "subjects": [
+      [
+       "mat",
+       "Matematik",
+       40
+      ],
+      [
+       "fiz",
+       "Fizik",
+       14
+      ],
+      [
+       "kim",
+       "Kimya",
+       13
+      ],
+      [
+       "biy",
+       "Biyoloji",
+       13
+      ],
+      [
+       "ede",
+       "Edebiyat–Sosyal Bilimler-1",
+       40
+      ],
+      [
+       "sos2",
+       "Sosyal Bilimler-2",
+       40
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "Türkçe",
+    "Matematik",
+    "Geometri",
+    "Fizik",
+    "Kimya",
+    "Biyoloji",
+    "Tarih",
+    "Coğrafya"
+   ]
+  },
+  {
+   "id": "lgs",
+   "name": "LGS",
+   "full": "Liselere Geçiş Sistemi (8. sınıf)",
+   "cat": "uni",
+   "days": [
+    "2027-06-13"
+   ],
+   "wpr": 3,
+   "ai": "lgs",
+   "tests": [
+    {
+     "id": "lgs",
+     "name": "LGS",
+     "subjects": [
+      [
+       "tr",
+       "Türkçe",
+       20
+      ],
+      [
+       "mat",
+       "Matematik",
+       20
+      ],
+      [
+       "fen",
+       "Fen Bilimleri",
+       20
+      ],
+      [
+       "ink",
+       "İnkılap Tarihi",
+       10
+      ],
+      [
+       "din",
+       "Din Kültürü",
+       10
+      ],
+      [
+       "ing",
+       "İngilizce",
+       10
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "Türkçe",
+    "Matematik",
+    "Fen Bilimleri",
+    "İnkılap Tarihi",
+    "Din Kültürü",
+    "İngilizce"
+   ]
+  },
+  {
+   "id": "msu",
+   "name": "MSÜ",
+   "full": "Millî Savunma Üniversitesi Askerî Öğrenci Aday Belirleme Sınavı",
+   "cat": "uni",
+   "days": [
+    "2027-03-20"
+   ],
+   "wpr": 4,
+   "ai": "yks",
+   "tests": [
+    {
+     "id": "msu",
+     "name": "MSÜ",
+     "subjects": [
+      [
+       "tr",
+       "Türkçe",
+       40
+      ],
+      [
+       "sos",
+       "Sosyal Bilimler",
+       20
+      ],
+      [
+       "mat",
+       "Temel Matematik",
+       40
+      ],
+      [
+       "fen",
+       "Fen Bilimleri",
+       20
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "Türkçe",
+    "Matematik",
+    "Fen Bilimleri",
+    "Sosyal Bilimler"
+   ]
+  },
+  {
+   "id": "dgs",
+   "name": "DGS",
+   "full": "Dikey Geçiş Sınavı",
+   "cat": "uni",
+   "days": [
+    "2027-07-18"
+   ],
+   "wpr": 4,
+   "ai": "",
+   "tests": [
+    {
+     "id": "dgs",
+     "name": "DGS",
+     "subjects": [
+      [
+       "say",
+       "Sayısal",
+       50
+      ],
+      [
+       "soz",
+       "Sözel",
+       50
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "Matematik",
+    "Geometri",
+    "Türkçe"
+   ]
+  },
+  {
+   "id": "kpss_lisans",
+   "name": "KPSS Lisans",
+   "full": "Kamu Personeli Seçme Sınavı – Genel Yetenek, Genel Kültür",
+   "cat": "public",
+   "days": [
+    "2027-09-12"
+   ],
+   "wpr": 4,
+   "ai": "",
+   "tests": [
+    {
+     "id": "gygk",
+     "name": "GY-GK",
+     "subjects": [
+      [
+       "tr",
+       "Türkçe",
+       30
+      ],
+      [
+       "mat",
+       "Matematik",
+       30
+      ],
+      [
+       "tar",
+       "Tarih",
+       27
+      ],
+      [
+       "cog",
+       "Coğrafya",
+       18
+      ],
+      [
+       "vat",
+       "Vatandaşlık",
+       9
+      ],
+      [
+       "gun",
+       "Güncel Bilgiler",
+       6
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "Türkçe",
+    "Matematik",
+    "Tarih",
+    "Coğrafya",
+    "Vatandaşlık",
+    "Güncel Bilgiler"
+   ]
+  },
+  {
+   "id": "kpss_onlisans",
+   "name": "KPSS Önlisans",
+   "full": "Kamu Personeli Seçme Sınavı – Önlisans",
+   "cat": "public",
+   "days": [],
+   "wpr": 4,
+   "ai": "",
+   "tests": [
+    {
+     "id": "gygk",
+     "name": "GY-GK",
+     "subjects": [
+      [
+       "tr",
+       "Türkçe",
+       30
+      ],
+      [
+       "mat",
+       "Matematik",
+       30
+      ],
+      [
+       "tar",
+       "Tarih",
+       27
+      ],
+      [
+       "cog",
+       "Coğrafya",
+       18
+      ],
+      [
+       "vat",
+       "Vatandaşlık",
+       9
+      ],
+      [
+       "gun",
+       "Güncel Bilgiler",
+       6
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "Türkçe",
+    "Matematik",
+    "Tarih",
+    "Coğrafya",
+    "Vatandaşlık",
+    "Güncel Bilgiler"
+   ]
+  },
+  {
+   "id": "kpss_ortaogretim",
+   "name": "KPSS Ortaöğretim",
+   "full": "Kamu Personeli Seçme Sınavı – Ortaöğretim",
+   "cat": "public",
+   "days": [],
+   "wpr": 4,
+   "ai": "",
+   "tests": [
+    {
+     "id": "gygk",
+     "name": "GY-GK",
+     "subjects": [
+      [
+       "tr",
+       "Türkçe",
+       30
+      ],
+      [
+       "mat",
+       "Matematik",
+       30
+      ],
+      [
+       "tar",
+       "Tarih",
+       27
+      ],
+      [
+       "cog",
+       "Coğrafya",
+       18
+      ],
+      [
+       "vat",
+       "Vatandaşlık",
+       9
+      ],
+      [
+       "gun",
+       "Güncel Bilgiler",
+       6
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "Türkçe",
+    "Matematik",
+    "Tarih",
+    "Coğrafya",
+    "Vatandaşlık",
+    "Güncel Bilgiler"
+   ]
+  },
+  {
+   "id": "ales",
+   "name": "ALES",
+   "full": "Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı",
+   "cat": "academic",
+   "days": [
+    "2027-04-18",
+    "2027-07-11",
+    "2027-11-28"
+   ],
+   "wpr": 4,
+   "ai": "",
+   "tests": [
+    {
+     "id": "ales",
+     "name": "ALES",
+     "subjects": [
+      [
+       "say",
+       "Sayısal",
+       50
+      ],
+      [
+       "soz",
+       "Sözel",
+       50
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "Matematik",
+    "Türkçe"
+   ]
+  },
+  {
+   "id": "yds",
+   "name": "YDS",
+   "full": "Yabancı Dil Bilgisi Seviye Tespit Sınavı",
+   "cat": "language",
+   "days": [
+    "2027-03-28",
+    "2027-11-21"
+   ],
+   "wpr": 0,
+   "ai": "",
+   "tests": [
+    {
+     "id": "yds",
+     "name": "YDS",
+     "subjects": [
+      [
+       "dil",
+       "Yabancı Dil",
+       80
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "İngilizce"
+   ]
+  },
+  {
+   "id": "eyds",
+   "name": "e-YDS",
+   "full": "Elektronik Yabancı Dil Sınavı (tarihini sen seç)",
+   "cat": "language",
+   "days": [],
+   "wpr": 0,
+   "ai": "",
+   "tests": [
+    {
+     "id": "yds",
+     "name": "e-YDS",
+     "subjects": [
+      [
+       "dil",
+       "Yabancı Dil",
+       80
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "İngilizce"
+   ]
+  },
+  {
+   "id": "yokdil",
+   "name": "YÖKDİL",
+   "full": "Yükseköğretim Kurumları Yabancı Dil Sınavı",
+   "cat": "language",
+   "days": [
+    "2027-02-28",
+    "2027-07-25"
+   ],
+   "wpr": 0,
+   "ai": "",
+   "tests": [
+    {
+     "id": "yokdil",
+     "name": "YÖKDİL",
+     "subjects": [
+      [
+       "dil",
+       "Yabancı Dil",
+       80
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "İngilizce"
+   ]
+  },
+  {
+   "id": "tus",
+   "name": "TUS",
+   "full": "Tıpta Uzmanlık Eğitimi Giriş Sınavı",
+   "cat": "health",
+   "days": [
+    "2027-03-27",
+    "2027-08-22"
+   ],
+   "wpr": 4,
+   "ai": "",
+   "tests": [
+    {
+     "id": "tus",
+     "name": "TUS",
+     "subjects": [
+      [
+       "temel",
+       "Temel Tıp Bilimleri",
+       100
+      ],
+      [
+       "klinik",
+       "Klinik Tıp Bilimleri",
+       100
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "Temel Tıp Bilimleri",
+    "Klinik Tıp Bilimleri"
+   ]
+  },
+  {
+   "id": "dus",
+   "name": "DUS",
+   "full": "Diş Hekimliğinde Uzmanlık Eğitimi Giriş Sınavı",
+   "cat": "health",
+   "days": [
+    "2027-10-24"
+   ],
+   "wpr": 4,
+   "ai": "",
+   "tests": [
+    {
+     "id": "dus",
+     "name": "DUS",
+     "subjects": [
+      [
+       "temel",
+       "Temel Bilimler",
+       40
+      ],
+      [
+       "klinik",
+       "Klinik Bilimler",
+       80
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "Temel Bilimler",
+    "Klinik Bilimler"
+   ]
+  },
+  {
+   "id": "eus",
+   "name": "EUS",
+   "full": "Eczacılıkta Uzmanlık Eğitimi Giriş Sınavı",
+   "cat": "health",
+   "days": [
+    "2027-11-06"
+   ],
+   "wpr": 4,
+   "ai": "",
+   "tests": [
+    {
+     "id": "eus",
+     "name": "EUS",
+     "subjects": [
+      [
+       "eus",
+       "EUS",
+       100
+      ]
+     ]
+    }
+   ],
+   "courses": [
+    "Eczacılık"
+   ]
+  }
+ ]
+}
